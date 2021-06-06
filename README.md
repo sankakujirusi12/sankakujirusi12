@@ -1,0 +1,23 @@
+Bve5上で動作する路線・車両データを制作している△12△(三角印12番)です。  
+  
+☆自己紹介☆  
+住処:近畿  
+年齢:顔面は40代  
+趣味:Bve、撮り鉄、乗り鉄(18きっぷ旅)  
+好きなもの:国鉄型  
+嫌いなもの:梅雨  
+一言:Bve制作は楽しいぞ。岡山はいいぞ。  
+  
+☆制作中☆  
+山陽線  
+東海道線  
+
+☆参加中☆  
+東海道・山陽新幹線プロジェクト  
+山陽本線プロジェクト  
+せとうちBVE作者の会  
+
+<!---
+sankakujirusi12/sankakujirusi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
