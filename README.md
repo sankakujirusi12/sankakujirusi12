@@ -1,5 +1,5 @@
 # ☆概要☆
-Bve5上で動作する路線・車両データを制作している△12△(三角印12番)です。  
+Bve5/6上で動作する路線・車両データを公開しています。  
   
 # ☆自己紹介☆  
 住処:近畿  
@@ -17,6 +17,11 @@ Bve5上で動作する路線・車両データを制作している△12△(三�
 東海道・山陽新幹線プロジェクト  
 山陽本線プロジェクト  
 せとうちBVE作者の会  
+
+# ☆リンク☆  
+[Twitter](https://twitter.com/sankakujirusi12)←普段はここにいます  
+[ホームページ](http://sankakujirusi12.ninja-web.net/)←鉄道写真、Bveの素材など  
+[進捗ノート](https://shinchoku.net/users/sankakujirusi12)←ときどきまとめて進捗上げてます  
 
 <!---
 sankakujirusi12/sankakujirusi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
