@@ -19,7 +19,6 @@ Bve5/6上で動作する路線・車両データを公開しています。
 せとうちBVE作者の会  
 
 # ☆リンク☆  
-[Twitter](https://twitter.com/sankakujirusi12)←普段はここにいます  
 [ホームページ](http://sankakujirusi12.ninja-web.net/)←鉄道写真、Bveの素材など  
 [進捗ノート](https://shinchoku.net/users/sankakujirusi12)←ときどきまとめて進捗上げてます  
 
