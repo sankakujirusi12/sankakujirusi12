@@ -22,8 +22,9 @@ Bve5/6上で動作する路線・車両データを公開しています。
 
 # ☆リンク☆  
 [ホームページ](http://sankakujirusi12.ninja-web.net/)←鉄道写真、Bveの素材など  
-[進捗ノート](https://shinchoku.net/users/sankakujirusi12)←ときどきまとめて進捗上げてます  
-
+<!---[進捗ノート](https://shinchoku.net/users/sankakujirusi12)←ときどきまとめて進捗上げてます  
+--->
+進捗ノートとTwitterアカウントの運用は終了しました。  
 <!---
 sankakujirusi12/sankakujirusi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
