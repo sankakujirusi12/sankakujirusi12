@@ -3,7 +3,7 @@ Bve5/6上で動作する路線・車両データを公開しています。車�
   
 # ☆自己紹介☆  
 名前:△12△(三角印12番)  
-住処:近畿  
+住処:近畿→東海  
 年齢:㊙  
 趣味:Bve、撮り鉄、乗り鉄(18きっぷ旅)、録り鉄  
 好きなもの:国鉄型電車・気動車・機関車  
@@ -30,8 +30,6 @@ Bve5/6上で動作する路線・車両データを公開しています。車�
 
 # ☆リンク☆  
 [ホームページ](http://sankakujirusi12.ninja-web.net/)←鉄道写真、Bveの素材など  
-<!---[進捗ノート](https://shinchoku.net/users/sankakujirusi12)←ときどきまとめて進捗上げてます  
---->
 進捗ノートとTwitterアカウントの運用は終了しました。  
 <!---
 sankakujirusi12/sankakujirusi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
