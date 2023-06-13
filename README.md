@@ -1,5 +1,5 @@
 # ☆概要☆
-[`Bve Trainsim5/BVE Trainsim6`](https://bvets.net/)上で動作する路線・車両データを公開しています。車両データを参照・指定する場合の連絡は不要です。  
+[`Bve Trainsim5/BVE Trainsim6`](https://bvets.net/)上で動作する路線・車両データを公開しています。車両データを参照・指定する場合の連絡は不要ですが、専用スタフの搭載などの依頼の際はご連絡ください。  
   
 # ☆自己紹介☆  
 名前:△12△(三角印12番)  
@@ -34,6 +34,7 @@
 
 # ☆リンク☆  
 [ホームページ](http://sankakujirusi12.ninja-web.net/)←鉄道写真、Bveの素材など  
+メールアドレス: sankakujirusi12 at gmail.com
 進捗ノートとTwitterアカウントの運用は終了しました。  
 <!---
 sankakujirusi12/sankakujirusi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
