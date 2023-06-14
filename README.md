@@ -19,7 +19,7 @@
 > - [103系](https://github.com/sankakujirusi12/Bve_JRW103)  
 > - [113系](https://github.com/sankakujirusi12/Bve_Kito_Oka_Hiro_Seki_Trainpack)  
 > - [115系](https://github.com/sankakujirusi12/Bve_Kito_Oka_Hiro_Seki_Trainpack)  
-> - 117系  
+> - [117系](https://github.com/sankakujirusi12/Bve_Kito_Oka_Hiro_Seki_Trainpack)  
 > - [201系](https://github.com/sankakujirusi12/Bve_JRW201)  
 > - 413系
 > - 415系  
