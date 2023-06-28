@@ -12,7 +12,7 @@
   
 # ☆制作中☆  
 > 路線:  
-> - [JR山陽線(岡山～姫路)](https://github.com/sankakujirusi12/Bve_SanyoLine)  
+> - [JR山陽線(姫路～岡山)](https://github.com/sankakujirusi12/Bve_SanyoLine)  
 > - [JR札沼線もどき(フリ素、凍結中)](https://github.com/sankakujirusi12/JRH_SassyoLine)  
 
 > 車両:  
